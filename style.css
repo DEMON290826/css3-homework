@@ -1,5 +1,11 @@
 /* Neighborhood Walks - single stylesheet shared by all three pages */
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 112.5%;
