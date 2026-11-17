@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Illustration of a trail map with three marked loops">
+  <rect width="400" height="260" fill="#f6f4ef"/>
+  <path d="M0 190 q90 -30 180 0 q90 30 220 -10 v80 H0 z" fill="#dbe9f2"/>
+  <path d="M60 70 h150 v60 h-60 v70 h-90 z" fill="none" stroke="#0b4f6c" stroke-width="6"/>
+  <path d="M240 50 q60 30 40 90 q-20 60 60 80" fill="none" stroke="#0b4f6c" stroke-width="6"/>
+  <circle cx="60" cy="70" r="10" fill="#f2a900"/>
+  <circle cx="270" cy="220" r="10" fill="#f2a900"/>
+  <circle cx="300" cy="60" r="10" fill="#f2a900"/>
+  <rect x="120" y="150" width="60" height="34" fill="#c9dff0"/>
+</svg>

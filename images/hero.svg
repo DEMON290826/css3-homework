@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Illustration of the Huron River with a footbridge and hills">
+  <rect width="400" height="260" fill="#dff0f7"/>
+  <circle cx="60" cy="46" r="22" fill="#f2a900"/>
+  <path d="M0 120 q60 -40 120 -10 q40 20 90 0 q60 -26 120 6 q40 22 70 4 v40 q-50 20 -110 0 q-60 -20 -120 4 q-60 22 -110 -6 z" fill="#9dc6d8"/>
+  <path d="M0 170 q60 -20 120 0 q60 20 120 0 q60 -20 160 6 v84 H0 z" fill="#2f7b9c"/>
+  <rect x="120" y="150" width="150" height="12" fill="#8a5a2b"/>
+  <rect x="140" y="162" width="10" height="34" fill="#6f4720"/>
+  <rect x="240" y="162" width="10" height="34" fill="#6f4720"/>
+  <rect y="240" width="400" height="20" fill="#4a7a4a"/>
+</svg>

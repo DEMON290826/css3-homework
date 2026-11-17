@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Illustration of a gravel path curving between trees">
+  <rect width="400" height="260" fill="#e6f2f8"/>
+  <path d="M150 260 q30 -90 110 -110 q60 -14 90 -50" fill="none" stroke="#d8c9a8" stroke-width="46" stroke-linecap="round"/>
+  <path d="M150 260 q30 -90 110 -110 q60 -14 90 -50" fill="none" stroke="#efe3c6" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="70" cy="90" r="40" fill="#3f6b3f"/>
+  <rect x="64" y="122" width="12" height="70" fill="#6f4720"/>
+  <circle cx="320" cy="140" r="32" fill="#4a7a4a"/>
+  <rect x="315" y="166" width="10" height="60" fill="#6f4720"/>
+  <circle cx="200" cy="60" r="22" fill="#5c8a5c"/>
+</svg>

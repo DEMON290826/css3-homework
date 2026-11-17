@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Illustration of a wooden bench facing a pond">
+  <rect width="400" height="260" fill="#eaf4ea"/>
+  <ellipse cx="200" cy="205" rx="150" ry="38" fill="#7fb3c8"/>
+  <rect y="228" width="400" height="32" fill="#4a7a4a"/>
+  <rect x="120" y="150" width="160" height="12" fill="#8a5a2b"/>
+  <rect x="120" y="132" width="160" height="10" fill="#a06b36"/>
+  <rect x="130" y="162" width="12" height="30" fill="#6f4720"/>
+  <rect x="258" y="162" width="12" height="30" fill="#6f4720"/>
+  <circle cx="70" cy="120" r="34" fill="#3f6b3f"/>
+  <rect x="64" y="150" width="12" height="60" fill="#6f4720"/>
+  <circle cx="330" cy="130" r="26" fill="#4a7a4a"/>
+  <rect x="325" y="152" width="10" height="58" fill="#6f4720"/>
+</svg>
