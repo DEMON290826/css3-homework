@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Illustration of a shared path beside a river with a cyclist">
+  <rect width="400" height="260" fill="#f4f1e6"/>
+  <path d="M0 200 q120 -40 400 -70 v130 H0 z" fill="#2f7b9c"/>
+  <path d="M0 230 q140 -30 400 -60 v40 q-260 30 -400 60 z" fill="#c8bda5"/>
+  <circle cx="110" cy="120" r="10" fill="#123b4d"/>
+  <circle cx="150" cy="120" r="10" fill="#123b4d"/>
+  <path d="M110 120 L130 100 L150 120" fill="none" stroke="#123b4d" stroke-width="4"/>
+  <circle cx="300" cy="60" r="24" fill="#f2a900"/>
+</svg>

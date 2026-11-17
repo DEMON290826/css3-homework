@@ -20,8 +20,25 @@ header .tagline {
   margin: 0.25rem 0 0;
 }
 
+/* Homework two: the list item styling from homework one is no longer used. */
+/*
+li {
+  display: inline-block;
+  width: 7.5rem;
+}
+*/
+
 nav {
   background-color: #123b4d;
+  display: inline-block;
+  width: 80%;
+  vertical-align: top;
+}
+
+nav img {
+  width: 10%;
+  height: auto;
+  padding: 0.5rem 0 0 1.5rem;
 }
 
 nav ul {
@@ -31,11 +48,6 @@ nav ul {
   display: flex;
   flex-wrap: wrap;
   gap: 0.25rem;
-}
-
-li {
-  display: inline-block;
-  width: 7.5rem;
 }
 
 nav a {
@@ -63,6 +75,68 @@ main {
 main li {
   display: list-item;
   width: auto;
+}
+
+/* Homework two: skip link, grid, and flex containers */
+.skip {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background-color: #ffffff;
+  color: #0b4f6c;
+  padding: 0.75rem 1.25rem;
+  border: 3px solid #f2a900;
+  z-index: 10;
+}
+
+.skip:focus {
+  left: 1rem;
+  top: 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content: center;
+  align-items: center;
+  row-gap: 1.5rem;
+  column-gap: 5%;
+  margin: 1.5rem 0;
+}
+
+.grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.card {
+  flex: 0 1 30%;
+  min-width: 16rem;
+  background-color: #f2f7fa;
+  border-left: 4px solid #0b4f6c;
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+}
+
+.card h3 {
+  margin-top: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  color: #123b4d;
+}
+
+.card p {
+  max-width: none;
+  margin-bottom: 0;
 }
 
 h1 {

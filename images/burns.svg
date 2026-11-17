@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Illustration of a park square with a pond and maple trees">
+  <rect width="400" height="260" fill="#eef6ea"/>
+  <ellipse cx="200" cy="170" rx="120" ry="50" fill="#2f7b9c"/>
+  <circle cx="70" cy="90" r="34" fill="#3f7d3f"/>
+  <rect x="64" y="118" width="12" height="40" fill="#8a5a2b"/>
+  <circle cx="330" cy="80" r="28" fill="#3f7d3f"/>
+  <rect x="325" y="104" width="10" height="36" fill="#8a5a2b"/>
+  <rect y="230" width="400" height="30" fill="#4a7a4a"/>
+</svg>

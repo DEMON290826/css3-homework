@@ -7,18 +7,20 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<a class="skip" href="#main">Skip to Main Content</a>
 <header>
   <h1>Parks Along the Route</h1>
   <p class="tagline">Green space, benches, and water fountains</p>
 </header>
 <nav>
+  <img src="images/logo.svg" alt="Ann Arbor Trails logo">
   <ul>
     <li><a href="index.html">Home</a></li>
     <li><a href="parks.html">Parks</a></li>
     <li><a href="walks.html">Walks</a></li>
   </ul>
 </nav>
-<main>
+<main id="main">
   <h2>Three parks worth the detour</h2>
   <table>
     <caption>Park features at a glance</caption>
@@ -31,17 +33,23 @@
       <tr><td>Bandemer Park</td><td>None</td><td>2.4 km</td></tr>
     </tbody>
   </table>
+  <div class="grid">
+    <img src="images/gallup.svg" alt="A wide river bend crossed by two wooden bridges">
+    <p>Gallup Park follows both banks of the Huron River and crosses at two wooden bridges.</p>
+    <img src="images/burns.svg" alt="A small park square with a pond and two maple trees">
+    <p>Burns Park is a neighborhood square with a small pond and a long straight path under maples.</p>
+    <img src="images/bandemer.svg" alt="A shared path beside the river with a cyclist">
+    <p>Bandemer Park is the quietest option, with a paved accessible route from the south lot.</p>
+  </div>
   <h2>Gallup Park</h2>
-  <p>The paved loop follows both banks of the Huron River and crosses at two wooden bridges. It is the
-  busiest of the three on weekend mornings, so an early start keeps the path clear. Benches sit every
-  few hundred metres and most of them face the water.</p>
+  <p>The paved loop is the busiest of the three on weekend mornings, so an early start keeps the path
+  clear. Benches sit every few hundred metres and most of them face the water.</p>
   <h2>Burns Park</h2>
-  <p>A neighborhood square with a small pond and a long straight path under maples. The path is wide
-  enough for two people side by side. There is no fountain, but a grocery store two blocks east sells
-  cold drinks.</p>
+  <p>The path is wide enough for two people side by side. There is no fountain, but a grocery store two
+  blocks east sells cold drinks.</p>
   <h2>Bandemer Park</h2>
-  <p>The quietest option. The gravel section near the north entrance can be muddy after rain, and the
-  accessible paved route begins at the south lot instead. Watch for cyclists on the shared path.</p>
+  <p>The gravel section near the north entrance can be muddy after rain. Watch for cyclists on the shared
+  path, and use the south entrance if you need an all paved route.</p>
 </main>
 <footer>
   <p>Neighborhood Walks &middot; a student project for Introduction to CSS3 &middot; <a href="index.html">back to the start</a></p>
